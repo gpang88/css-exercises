@@ -1,0 +1,23 @@
+/* Rule 1 */
+.odd {
+    background-color: #EAA3AF;
+    font-family: Verbana, sans-serif;
+}
+
+/* Rule 2 */
+#Number2 {
+    color: #2424CE;
+    font-size: 36px;
+}
+
+/* Rule 3 */
+.Special {
+    font-size: 24px;
+}
+
+/* Rule 4 */
+#Number4 {
+    background-color: #31CE24;
+    font-size: 24px;
+    font-weight: bold;
+}
